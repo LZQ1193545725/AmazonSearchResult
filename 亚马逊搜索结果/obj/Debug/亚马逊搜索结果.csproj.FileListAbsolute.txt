@@ -1,0 +1,15 @@
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\bin\Debug\亚马逊搜索结果.exe.config
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\bin\Debug\亚马逊搜索结果.exe
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\bin\Debug\亚马逊搜索结果.pdb
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\bin\Debug\NPOI.dll
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\bin\Debug\NPOI.OOXML.dll
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\bin\Debug\NPOI.xml
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\obj\Debug\亚马逊搜索结果.Form1.resources
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\obj\Debug\亚马逊搜索结果.Properties.Resources.resources
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\obj\Debug\亚马逊搜索结果.csproj.GenerateResource.Cache
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\obj\Debug\亚马逊搜索结果.csproj.CoreCompileInputs.cache
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\obj\Debug\亚马逊搜索结果.exe
+D:\Project\亚马逊搜索结果\亚马逊搜索结果\obj\Debug\亚马逊搜索结果.pdb
